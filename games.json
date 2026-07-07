@@ -1,0 +1,19 @@
+{
+  "catalog_version": 1,
+  "games": [
+    {
+      "id": "sudoku",
+      "name": "Sudoku",
+      "icon": "https://thomaspg.github.io/20free-site/icons/sudoku.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.sudoku",
+      "app_store": null
+    },
+    {
+      "id": "minesweeper",
+      "name": "Minesweeper",
+      "icon": "https://thomaspg.github.io/20free-site/icons/minesweeper.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.minesweeper",
+      "app_store": null
+    }
+  ]
+}
