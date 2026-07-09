@@ -196,6 +196,13 @@
       "icon": "https://thomaspg.github.io/20free-site/icons/wordsearch.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.wordsearch",
       "app_store": null
+    },
+    {
+      "id": "hungryball",
+      "name": "Hungry Ball",
+      "icon": "https://thomaspg.github.io/20free-site/icons/hungryball.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.hungryball",
+      "app_store": null
     }
   ]
 }
