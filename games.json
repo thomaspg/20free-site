@@ -203,6 +203,13 @@
       "icon": "https://thomaspg.github.io/20free-site/icons/hungryball.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.hungryball",
       "app_store": null
+    },
+    {
+      "id": "kropki",
+      "name": "Kropki",
+      "icon": "https://thomaspg.github.io/20free-site/icons/kropki.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.kropki",
+      "app_store": null
     }
   ]
 }
