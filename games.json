@@ -14,6 +14,188 @@
       "icon": "https://thomaspg.github.io/20free-site/icons/minesweeper.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.minesweeper",
       "app_store": null
+    },
+    {
+      "id": "binarypuzzle",
+      "name": "Binary Puzzle",
+      "icon": "https://thomaspg.github.io/20free-site/icons/binarypuzzle.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.binarypuzzle",
+      "app_store": null
+    },
+    {
+      "id": "boxpusher",
+      "name": "Box Pusher",
+      "icon": "https://thomaspg.github.io/20free-site/icons/boxpusher.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.boxpusher",
+      "app_store": null
+    },
+    {
+      "id": "brickbreaker",
+      "name": "Brick Breaker",
+      "icon": "https://thomaspg.github.io/20free-site/icons/brickbreaker.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.brickbreaker",
+      "app_store": null
+    },
+    {
+      "id": "bridges",
+      "name": "Bridges",
+      "icon": "https://thomaspg.github.io/20free-site/icons/bridges.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.bridges",
+      "app_store": null
+    },
+    {
+      "id": "circlepins",
+      "name": "Circle Pins",
+      "icon": "https://thomaspg.github.io/20free-site/icons/circlepins.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.circlepins",
+      "app_store": null
+    },
+    {
+      "id": "dominosa",
+      "name": "Dominosa",
+      "icon": "https://thomaspg.github.io/20free-site/icons/dominosa.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.dominosa",
+      "app_store": null
+    },
+    {
+      "id": "dropdodge",
+      "name": "Drop Dodge",
+      "icon": "https://thomaspg.github.io/20free-site/icons/dropdodge.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.dropdodge",
+      "app_store": null
+    },
+    {
+      "id": "futoshiki",
+      "name": "Futoshiki",
+      "icon": "https://thomaspg.github.io/20free-site/icons/futoshiki.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.futoshiki",
+      "app_store": null
+    },
+    {
+      "id": "gapdash",
+      "name": "Gap Dash",
+      "icon": "https://thomaspg.github.io/20free-site/icons/gapdash.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.gapdash",
+      "app_store": null
+    },
+    {
+      "id": "hitori",
+      "name": "Hitori",
+      "icon": "https://thomaspg.github.io/20free-site/icons/hitori.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.hitori",
+      "app_store": null
+    },
+    {
+      "id": "kakuro",
+      "name": "Kakuro",
+      "icon": "https://thomaspg.github.io/20free-site/icons/kakuro.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.kakuro",
+      "app_store": null
+    },
+    {
+      "id": "killersudoku",
+      "name": "Killer Sudoku",
+      "icon": "https://thomaspg.github.io/20free-site/icons/killersudoku.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.killersudoku",
+      "app_store": null
+    },
+    {
+      "id": "lightsout",
+      "name": "Lights Out",
+      "icon": "https://thomaspg.github.io/20free-site/icons/lightsout.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.lightsout",
+      "app_store": null
+    },
+    {
+      "id": "lightup",
+      "name": "Light Up",
+      "icon": "https://thomaspg.github.io/20free-site/icons/lightup.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.lightup",
+      "app_store": null
+    },
+    {
+      "id": "nonogram",
+      "name": "Nonogram",
+      "icon": "https://thomaspg.github.io/20free-site/icons/nonogram.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.nonogram",
+      "app_store": null
+    },
+    {
+      "id": "numberlink",
+      "name": "Number Link",
+      "icon": "https://thomaspg.github.io/20free-site/icons/numberlink.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.numberlink",
+      "app_store": null
+    },
+    {
+      "id": "orbitjump",
+      "name": "Orbit Jump",
+      "icon": "https://thomaspg.github.io/20free-site/icons/orbitjump.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.orbitjump",
+      "app_store": null
+    },
+    {
+      "id": "pipes",
+      "name": "Pipes",
+      "icon": "https://thomaspg.github.io/20free-site/icons/pipes.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.pipes",
+      "app_store": null
+    },
+    {
+      "id": "shikaku",
+      "name": "Shikaku",
+      "icon": "https://thomaspg.github.io/20free-site/icons/shikaku.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.shikaku",
+      "app_store": null
+    },
+    {
+      "id": "skyscrapers",
+      "name": "Skyscrapers",
+      "icon": "https://thomaspg.github.io/20free-site/icons/skyscrapers.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.skyscrapers",
+      "app_store": null
+    },
+    {
+      "id": "starbattle",
+      "name": "Star Battle",
+      "icon": "https://thomaspg.github.io/20free-site/icons/starbattle.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.starbattle",
+      "app_store": null
+    },
+    {
+      "id": "tents",
+      "name": "Tents & Trees",
+      "icon": "https://thomaspg.github.io/20free-site/icons/tents.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.tents",
+      "app_store": null
+    },
+    {
+      "id": "thermometers",
+      "name": "Thermometers",
+      "icon": "https://thomaspg.github.io/20free-site/icons/thermometers.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.thermometers",
+      "app_store": null
+    },
+    {
+      "id": "unblock",
+      "name": "Unblock Puzzle",
+      "icon": "https://thomaspg.github.io/20free-site/icons/unblock.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.unblock",
+      "app_store": null
+    },
+    {
+      "id": "watersort",
+      "name": "Water Sort",
+      "icon": "https://thomaspg.github.io/20free-site/icons/watersort.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.watersort",
+      "app_store": null
+    },
+    {
+      "id": "wordsearch",
+      "name": "Word Search",
+      "icon": "https://thomaspg.github.io/20free-site/icons/wordsearch.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.wordsearch",
+      "app_store": null
     }
   ]
 }
