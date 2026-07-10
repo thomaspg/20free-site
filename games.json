@@ -252,6 +252,13 @@
       "icon": "https://thomaspg.github.io/20free-site/icons/zigzag.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.zigzag",
       "app_store": null
+    },
+    {
+      "id": "copter",
+      "name": "Cave Copter",
+      "icon": "https://thomaspg.github.io/20free-site/icons/copter.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.copter",
+      "app_store": null
     }
   ]
 }
