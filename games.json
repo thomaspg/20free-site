@@ -238,6 +238,13 @@
       "icon": "https://thomaspg.github.io/20free-site/icons/colorflood.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.colorflood",
       "app_store": null
+    },
+    {
+      "id": "towerstack",
+      "name": "Tower Stack",
+      "icon": "https://thomaspg.github.io/20free-site/icons/towerstack.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.towerstack",
+      "app_store": null
     }
   ]
 }
