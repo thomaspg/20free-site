@@ -266,6 +266,13 @@
       "icon": "https://thomaspg.github.io/20free-site/icons/snake.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.snake",
       "app_store": null
+    },
+    {
+      "id": "roadhop",
+      "name": "Road Hop",
+      "icon": "https://thomaspg.github.io/20free-site/icons/roadhop.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.roadhop",
+      "app_store": null
     }
   ]
 }
