@@ -231,6 +231,13 @@
       "icon": "https://thomaspg.github.io/20free-site/icons/mosaic.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.mosaic",
       "app_store": null
+    },
+    {
+      "id": "colorflood",
+      "name": "Color Flood",
+      "icon": "https://thomaspg.github.io/20free-site/icons/colorflood.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.colorflood",
+      "app_store": null
     }
   ]
 }
