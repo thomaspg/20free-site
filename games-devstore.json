@@ -390,6 +390,16 @@
       "categories": [
         "arcade"
       ]
+    },
+    {
+      "id": "spinshot",
+      "name": "Spin Shot",
+      "icon": "https://thomaspg.github.io/20free-site/icons/spinshot.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.spinshot",
+      "app_store": null,
+      "categories": [
+        "arcade"
+      ]
     }
   ]
 }
