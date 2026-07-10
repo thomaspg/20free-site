@@ -224,6 +224,13 @@
       "icon": "https://thomaspg.github.io/20free-site/icons/aquarium.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.aquarium",
       "app_store": null
+    },
+    {
+      "id": "mosaic",
+      "name": "Mosaic",
+      "icon": "https://thomaspg.github.io/20free-site/icons/mosaic.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.mosaic",
+      "app_store": null
     }
   ]
 }
