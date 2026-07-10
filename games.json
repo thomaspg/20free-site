@@ -259,6 +259,13 @@
       "icon": "https://thomaspg.github.io/20free-site/icons/copter.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.copter",
       "app_store": null
+    },
+    {
+      "id": "snake",
+      "name": "Snake",
+      "icon": "https://thomaspg.github.io/20free-site/icons/snake.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.snake",
+      "app_store": null
     }
   ]
 }
