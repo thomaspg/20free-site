@@ -132,10 +132,10 @@
       ]
     },
     {
-      "id": "killersudoku",
-      "name": "Killer Sudoku",
-      "icon": "https://thomaspg.github.io/20free-site/icons/killersudoku.png",
-      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.killersudoku",
+      "id": "sumsudoku",
+      "name": "Sum Sudoku",
+      "icon": "https://thomaspg.github.io/20free-site/icons/sumsudoku.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.sumsudoku",
       "app_store": null,
       "categories": [
         "puzzle"
