@@ -217,6 +217,13 @@
       "icon": "https://thomaspg.github.io/20free-site/icons/suguru.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.suguru",
       "app_store": null
+    },
+    {
+      "id": "aquarium",
+      "name": "Aquarium",
+      "icon": "https://thomaspg.github.io/20free-site/icons/aquarium.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.aquarium",
+      "app_store": null
     }
   ]
 }
