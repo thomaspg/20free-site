@@ -1,0 +1,395 @@
+{
+  "catalog_version": 2,
+  "games": [
+    {
+      "id": "sudoku",
+      "name": "Sudoku",
+      "icon": "https://thomaspg.github.io/20free-site/icons/sudoku.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.sudoku",
+      "app_store": null,
+      "categories": [
+        "puzzle"
+      ]
+    },
+    {
+      "id": "minesweeper",
+      "name": "Minesweeper",
+      "icon": "https://thomaspg.github.io/20free-site/icons/minesweeper.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.minesweeper",
+      "app_store": null,
+      "categories": [
+        "puzzle"
+      ]
+    },
+    {
+      "id": "binarypuzzle",
+      "name": "Binary Puzzle",
+      "icon": "https://thomaspg.github.io/20free-site/icons/binarypuzzle.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.binarypuzzle",
+      "app_store": null,
+      "categories": [
+        "puzzle"
+      ]
+    },
+    {
+      "id": "boxpusher",
+      "name": "Box Pusher",
+      "icon": "https://thomaspg.github.io/20free-site/icons/boxpusher.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.boxpusher",
+      "app_store": null,
+      "categories": [
+        "puzzle"
+      ]
+    },
+    {
+      "id": "brickbreaker",
+      "name": "Brick Breaker",
+      "icon": "https://thomaspg.github.io/20free-site/icons/brickbreaker.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.brickbreaker",
+      "app_store": null,
+      "categories": [
+        "arcade"
+      ]
+    },
+    {
+      "id": "bridges",
+      "name": "Bridges",
+      "icon": "https://thomaspg.github.io/20free-site/icons/bridges.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.bridges",
+      "app_store": null,
+      "categories": [
+        "puzzle"
+      ]
+    },
+    {
+      "id": "circlepins",
+      "name": "Circle Pins",
+      "icon": "https://thomaspg.github.io/20free-site/icons/circlepins.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.circlepins",
+      "app_store": null,
+      "categories": [
+        "arcade"
+      ]
+    },
+    {
+      "id": "dominosa",
+      "name": "Dominosa",
+      "icon": "https://thomaspg.github.io/20free-site/icons/dominosa.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.dominosa",
+      "app_store": null,
+      "categories": [
+        "puzzle"
+      ]
+    },
+    {
+      "id": "dropdodge",
+      "name": "Drop Dodge",
+      "icon": "https://thomaspg.github.io/20free-site/icons/dropdodge.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.dropdodge",
+      "app_store": null,
+      "categories": [
+        "arcade"
+      ]
+    },
+    {
+      "id": "futoshiki",
+      "name": "Futoshiki",
+      "icon": "https://thomaspg.github.io/20free-site/icons/futoshiki.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.futoshiki",
+      "app_store": null,
+      "categories": [
+        "puzzle"
+      ]
+    },
+    {
+      "id": "gapdash",
+      "name": "Gap Dash",
+      "icon": "https://thomaspg.github.io/20free-site/icons/gapdash.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.gapdash",
+      "app_store": null,
+      "categories": [
+        "arcade"
+      ]
+    },
+    {
+      "id": "hitori",
+      "name": "Hitori",
+      "icon": "https://thomaspg.github.io/20free-site/icons/hitori.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.hitori",
+      "app_store": null,
+      "categories": [
+        "puzzle"
+      ]
+    },
+    {
+      "id": "kakuro",
+      "name": "Kakuro",
+      "icon": "https://thomaspg.github.io/20free-site/icons/kakuro.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.kakuro",
+      "app_store": null,
+      "categories": [
+        "puzzle"
+      ]
+    },
+    {
+      "id": "killersudoku",
+      "name": "Killer Sudoku",
+      "icon": "https://thomaspg.github.io/20free-site/icons/killersudoku.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.killersudoku",
+      "app_store": null,
+      "categories": [
+        "puzzle"
+      ]
+    },
+    {
+      "id": "lightsout",
+      "name": "Lights Out",
+      "icon": "https://thomaspg.github.io/20free-site/icons/lightsout.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.lightsout",
+      "app_store": null,
+      "categories": [
+        "puzzle"
+      ]
+    },
+    {
+      "id": "lightup",
+      "name": "Light Up",
+      "icon": "https://thomaspg.github.io/20free-site/icons/lightup.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.lightup",
+      "app_store": null,
+      "categories": [
+        "puzzle"
+      ]
+    },
+    {
+      "id": "nonogram",
+      "name": "Nonogram",
+      "icon": "https://thomaspg.github.io/20free-site/icons/nonogram.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.nonogram",
+      "app_store": null,
+      "categories": [
+        "puzzle"
+      ]
+    },
+    {
+      "id": "numberlink",
+      "name": "Number Link",
+      "icon": "https://thomaspg.github.io/20free-site/icons/numberlink.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.numberlink",
+      "app_store": null,
+      "categories": [
+        "puzzle"
+      ]
+    },
+    {
+      "id": "orbitjump",
+      "name": "Orbit Jump",
+      "icon": "https://thomaspg.github.io/20free-site/icons/orbitjump.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.orbitjump",
+      "app_store": null,
+      "categories": [
+        "arcade"
+      ]
+    },
+    {
+      "id": "pipes",
+      "name": "Pipes",
+      "icon": "https://thomaspg.github.io/20free-site/icons/pipes.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.pipes",
+      "app_store": null,
+      "categories": [
+        "puzzle"
+      ]
+    },
+    {
+      "id": "shikaku",
+      "name": "Shikaku",
+      "icon": "https://thomaspg.github.io/20free-site/icons/shikaku.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.shikaku",
+      "app_store": null,
+      "categories": [
+        "puzzle"
+      ]
+    },
+    {
+      "id": "skyscrapers",
+      "name": "Skyscrapers",
+      "icon": "https://thomaspg.github.io/20free-site/icons/skyscrapers.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.skyscrapers",
+      "app_store": null,
+      "categories": [
+        "puzzle"
+      ]
+    },
+    {
+      "id": "starbattle",
+      "name": "Star Battle",
+      "icon": "https://thomaspg.github.io/20free-site/icons/starbattle.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.starbattle",
+      "app_store": null,
+      "categories": [
+        "puzzle"
+      ]
+    },
+    {
+      "id": "tents",
+      "name": "Tents & Trees",
+      "icon": "https://thomaspg.github.io/20free-site/icons/tents.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.tents",
+      "app_store": null,
+      "categories": [
+        "puzzle"
+      ]
+    },
+    {
+      "id": "thermometers",
+      "name": "Thermometers",
+      "icon": "https://thomaspg.github.io/20free-site/icons/thermometers.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.thermometers",
+      "app_store": null,
+      "categories": [
+        "puzzle"
+      ]
+    },
+    {
+      "id": "unblock",
+      "name": "Unblock Puzzle",
+      "icon": "https://thomaspg.github.io/20free-site/icons/unblock.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.unblock",
+      "app_store": null,
+      "categories": [
+        "puzzle"
+      ]
+    },
+    {
+      "id": "watersort",
+      "name": "Water Sort",
+      "icon": "https://thomaspg.github.io/20free-site/icons/watersort.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.watersort",
+      "app_store": null,
+      "categories": [
+        "puzzle"
+      ]
+    },
+    {
+      "id": "wordsearch",
+      "name": "Word Search",
+      "icon": "https://thomaspg.github.io/20free-site/icons/wordsearch.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.wordsearch",
+      "app_store": null,
+      "categories": [
+        "puzzle"
+      ]
+    },
+    {
+      "id": "hungryball",
+      "name": "Hungry Ball",
+      "icon": "https://thomaspg.github.io/20free-site/icons/hungryball.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.hungryball",
+      "app_store": null,
+      "categories": [
+        "arcade"
+      ]
+    },
+    {
+      "id": "kropki",
+      "name": "Kropki",
+      "icon": "https://thomaspg.github.io/20free-site/icons/kropki.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.kropki",
+      "app_store": null,
+      "categories": [
+        "puzzle"
+      ]
+    },
+    {
+      "id": "suguru",
+      "name": "Suguru",
+      "icon": "https://thomaspg.github.io/20free-site/icons/suguru.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.suguru",
+      "app_store": null,
+      "categories": [
+        "puzzle"
+      ]
+    },
+    {
+      "id": "aquarium",
+      "name": "Aquarium",
+      "icon": "https://thomaspg.github.io/20free-site/icons/aquarium.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.aquarium",
+      "app_store": null,
+      "categories": [
+        "puzzle"
+      ]
+    },
+    {
+      "id": "mosaic",
+      "name": "Mosaic",
+      "icon": "https://thomaspg.github.io/20free-site/icons/mosaic.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.mosaic",
+      "app_store": null,
+      "categories": [
+        "puzzle"
+      ]
+    },
+    {
+      "id": "colorflood",
+      "name": "Color Flood",
+      "icon": "https://thomaspg.github.io/20free-site/icons/colorflood.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.colorflood",
+      "app_store": null,
+      "categories": [
+        "puzzle"
+      ]
+    },
+    {
+      "id": "towerstack",
+      "name": "Tower Stack",
+      "icon": "https://thomaspg.github.io/20free-site/icons/towerstack.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.towerstack",
+      "app_store": null,
+      "categories": [
+        "arcade"
+      ]
+    },
+    {
+      "id": "zigzag",
+      "name": "Zigzag Ball",
+      "icon": "https://thomaspg.github.io/20free-site/icons/zigzag.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.zigzag",
+      "app_store": null,
+      "categories": [
+        "arcade"
+      ]
+    },
+    {
+      "id": "copter",
+      "name": "Cave Copter",
+      "icon": "https://thomaspg.github.io/20free-site/icons/copter.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.copter",
+      "app_store": null,
+      "categories": [
+        "arcade"
+      ]
+    },
+    {
+      "id": "snake",
+      "name": "Snake",
+      "icon": "https://thomaspg.github.io/20free-site/icons/snake.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.snake",
+      "app_store": null,
+      "categories": [
+        "arcade"
+      ]
+    },
+    {
+      "id": "roadhop",
+      "name": "Road Hop",
+      "icon": "https://thomaspg.github.io/20free-site/icons/roadhop.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.roadhop",
+      "app_store": null,
+      "categories": [
+        "arcade"
+      ]
+    }
+  ]
+}
