@@ -245,6 +245,13 @@
       "icon": "https://thomaspg.github.io/20free-site/icons/towerstack.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.towerstack",
       "app_store": null
+    },
+    {
+      "id": "zigzag",
+      "name": "Zigzag Ball",
+      "icon": "https://thomaspg.github.io/20free-site/icons/zigzag.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.zigzag",
+      "app_store": null
     }
   ]
 }
