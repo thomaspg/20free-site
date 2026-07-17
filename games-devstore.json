@@ -400,6 +400,16 @@
       "categories": [
         "arcade"
       ]
+    },
+    {
+      "id": "spaceshooter",
+      "name": "Space Shooter",
+      "icon": "https://thomaspg.github.io/20free-site/icons/spaceshooter.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.spaceshooter",
+      "app_store": null,
+      "categories": [
+        "arcade"
+      ]
     }
   ]
 }
