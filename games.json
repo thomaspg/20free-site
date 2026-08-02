@@ -1,5 +1,5 @@
 {
-  "catalog_version": 2,
+  "catalog_version": 3,
   "games": [
     {
       "id": "sudoku",
@@ -406,6 +406,17 @@
       "name": "Space Shooter",
       "icon": "https://thomaspg.github.io/20free-site/icons/spaceshooter.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.spaceshooter",
+      "app_store": null,
+      "categories": [
+        "arcade"
+      ],
+      "featured": true
+    },
+    {
+      "id": "hungryhole",
+      "name": "Hungry Hole",
+      "icon": "https://thomaspg.github.io/20free-site/icons/hungryhole.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.hungryhole",
       "app_store": null,
       "categories": [
         "arcade"
