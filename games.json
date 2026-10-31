@@ -4,7 +4,7 @@
     {
       "id": "sudoku",
       "name": "Sudoku",
-      "icon": "https://thomaspg.github.io/20free-site/icons/sudoku.png",
+      "icon": "https://20free.eu/icons/sudoku.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.sudoku",
       "app_store": null,
       "categories": [
@@ -14,7 +14,7 @@
     {
       "id": "minesweeper",
       "name": "Minesweeper",
-      "icon": "https://thomaspg.github.io/20free-site/icons/minesweeper.png",
+      "icon": "https://20free.eu/icons/minesweeper.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.minesweeper",
       "app_store": null,
       "categories": [
@@ -24,7 +24,7 @@
     {
       "id": "binarypuzzle",
       "name": "Binary Puzzle",
-      "icon": "https://thomaspg.github.io/20free-site/icons/binarypuzzle.png",
+      "icon": "https://20free.eu/icons/binarypuzzle.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.binarypuzzle",
       "app_store": null,
       "categories": [
@@ -34,7 +34,7 @@
     {
       "id": "boxpusher",
       "name": "Box Pusher",
-      "icon": "https://thomaspg.github.io/20free-site/icons/boxpusher.png",
+      "icon": "https://20free.eu/icons/boxpusher.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.boxpusher",
       "app_store": null,
       "categories": [
@@ -44,7 +44,7 @@
     {
       "id": "brickbreaker",
       "name": "Brick Breaker",
-      "icon": "https://thomaspg.github.io/20free-site/icons/brickbreaker.png",
+      "icon": "https://20free.eu/icons/brickbreaker.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.brickbreaker",
       "app_store": null,
       "categories": [
@@ -54,7 +54,7 @@
     {
       "id": "bridges",
       "name": "Bridges",
-      "icon": "https://thomaspg.github.io/20free-site/icons/bridges.png",
+      "icon": "https://20free.eu/icons/bridges.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.bridges",
       "app_store": null,
       "categories": [
@@ -64,7 +64,7 @@
     {
       "id": "circlepins",
       "name": "Circle Pins",
-      "icon": "https://thomaspg.github.io/20free-site/icons/circlepins.png",
+      "icon": "https://20free.eu/icons/circlepins.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.circlepins",
       "app_store": null,
       "categories": [
@@ -74,7 +74,7 @@
     {
       "id": "dominosa",
       "name": "Dominosa",
-      "icon": "https://thomaspg.github.io/20free-site/icons/dominosa.png",
+      "icon": "https://20free.eu/icons/dominosa.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.dominosa",
       "app_store": null,
       "categories": [
@@ -84,7 +84,7 @@
     {
       "id": "dropdodge",
       "name": "Drop Dodge",
-      "icon": "https://thomaspg.github.io/20free-site/icons/dropdodge.png",
+      "icon": "https://20free.eu/icons/dropdodge.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.dropdodge",
       "app_store": null,
       "categories": [
@@ -94,7 +94,7 @@
     {
       "id": "futoshiki",
       "name": "Futoshiki",
-      "icon": "https://thomaspg.github.io/20free-site/icons/futoshiki.png",
+      "icon": "https://20free.eu/icons/futoshiki.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.futoshiki",
       "app_store": null,
       "categories": [
@@ -104,7 +104,7 @@
     {
       "id": "gapdash",
       "name": "Gap Dash",
-      "icon": "https://thomaspg.github.io/20free-site/icons/gapdash.png",
+      "icon": "https://20free.eu/icons/gapdash.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.gapdash",
       "app_store": null,
       "categories": [
@@ -114,7 +114,7 @@
     {
       "id": "hitori",
       "name": "Hitori",
-      "icon": "https://thomaspg.github.io/20free-site/icons/hitori.png",
+      "icon": "https://20free.eu/icons/hitori.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.hitori",
       "app_store": null,
       "categories": [
@@ -124,7 +124,7 @@
     {
       "id": "kakuro",
       "name": "Kakuro",
-      "icon": "https://thomaspg.github.io/20free-site/icons/kakuro.png",
+      "icon": "https://20free.eu/icons/kakuro.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.kakuro",
       "app_store": null,
       "categories": [
@@ -134,7 +134,7 @@
     {
       "id": "sumsudoku",
       "name": "Sum Sudoku",
-      "icon": "https://thomaspg.github.io/20free-site/icons/sumsudoku.png",
+      "icon": "https://20free.eu/icons/sumsudoku.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.sumsudoku",
       "app_store": null,
       "categories": [
@@ -144,7 +144,7 @@
     {
       "id": "lightsout",
       "name": "Lights Out",
-      "icon": "https://thomaspg.github.io/20free-site/icons/lightsout.png",
+      "icon": "https://20free.eu/icons/lightsout.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.lightsout",
       "app_store": null,
       "categories": [
@@ -154,7 +154,7 @@
     {
       "id": "lightup",
       "name": "Light Up",
-      "icon": "https://thomaspg.github.io/20free-site/icons/lightup.png",
+      "icon": "https://20free.eu/icons/lightup.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.lightup",
       "app_store": null,
       "categories": [
@@ -164,7 +164,7 @@
     {
       "id": "nonogram",
       "name": "Nonogram",
-      "icon": "https://thomaspg.github.io/20free-site/icons/nonogram.png",
+      "icon": "https://20free.eu/icons/nonogram.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.nonogram",
       "app_store": null,
       "categories": [
@@ -174,7 +174,7 @@
     {
       "id": "numberlink",
       "name": "Number Link",
-      "icon": "https://thomaspg.github.io/20free-site/icons/numberlink.png",
+      "icon": "https://20free.eu/icons/numberlink.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.numberlink",
       "app_store": null,
       "categories": [
@@ -184,7 +184,7 @@
     {
       "id": "orbitjump",
       "name": "Orbit Jump",
-      "icon": "https://thomaspg.github.io/20free-site/icons/orbitjump.png",
+      "icon": "https://20free.eu/icons/orbitjump.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.orbitjump",
       "app_store": null,
       "categories": [
@@ -194,7 +194,7 @@
     {
       "id": "pipes",
       "name": "Pipes",
-      "icon": "https://thomaspg.github.io/20free-site/icons/pipes.png",
+      "icon": "https://20free.eu/icons/pipes.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.pipes",
       "app_store": null,
       "categories": [
@@ -204,7 +204,7 @@
     {
       "id": "shikaku",
       "name": "Shikaku",
-      "icon": "https://thomaspg.github.io/20free-site/icons/shikaku.png",
+      "icon": "https://20free.eu/icons/shikaku.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.shikaku",
       "app_store": null,
       "categories": [
@@ -214,7 +214,7 @@
     {
       "id": "skyscrapers",
       "name": "Skyscrapers",
-      "icon": "https://thomaspg.github.io/20free-site/icons/skyscrapers.png",
+      "icon": "https://20free.eu/icons/skyscrapers.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.skyscrapers",
       "app_store": null,
       "categories": [
@@ -224,7 +224,7 @@
     {
       "id": "starbattle",
       "name": "Star Battle",
-      "icon": "https://thomaspg.github.io/20free-site/icons/starbattle.png",
+      "icon": "https://20free.eu/icons/starbattle.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.starbattle",
       "app_store": null,
       "categories": [
@@ -234,7 +234,7 @@
     {
       "id": "tents",
       "name": "Tents & Trees",
-      "icon": "https://thomaspg.github.io/20free-site/icons/tents.png",
+      "icon": "https://20free.eu/icons/tents.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.tents",
       "app_store": null,
       "categories": [
@@ -244,7 +244,7 @@
     {
       "id": "thermometers",
       "name": "Thermometers",
-      "icon": "https://thomaspg.github.io/20free-site/icons/thermometers.png",
+      "icon": "https://20free.eu/icons/thermometers.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.thermometers",
       "app_store": null,
       "categories": [
@@ -254,7 +254,7 @@
     {
       "id": "unblock",
       "name": "Unblock Puzzle",
-      "icon": "https://thomaspg.github.io/20free-site/icons/unblock.png",
+      "icon": "https://20free.eu/icons/unblock.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.unblock",
       "app_store": null,
       "categories": [
@@ -264,7 +264,7 @@
     {
       "id": "watersort",
       "name": "Water Sort",
-      "icon": "https://thomaspg.github.io/20free-site/icons/watersort.png",
+      "icon": "https://20free.eu/icons/watersort.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.watersort",
       "app_store": null,
       "categories": [
@@ -274,7 +274,7 @@
     {
       "id": "wordsearch",
       "name": "Word Search",
-      "icon": "https://thomaspg.github.io/20free-site/icons/wordsearch.png",
+      "icon": "https://20free.eu/icons/wordsearch.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.wordsearch",
       "app_store": null,
       "categories": [
@@ -284,7 +284,7 @@
     {
       "id": "hungryball",
       "name": "Hungry Ball",
-      "icon": "https://thomaspg.github.io/20free-site/icons/hungryball.png",
+      "icon": "https://20free.eu/icons/hungryball.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.hungryball",
       "app_store": null,
       "categories": [
@@ -294,7 +294,7 @@
     {
       "id": "kropki",
       "name": "Kropki",
-      "icon": "https://thomaspg.github.io/20free-site/icons/kropki.png",
+      "icon": "https://20free.eu/icons/kropki.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.kropki",
       "app_store": null,
       "categories": [
@@ -304,7 +304,7 @@
     {
       "id": "suguru",
       "name": "Suguru",
-      "icon": "https://thomaspg.github.io/20free-site/icons/suguru.png",
+      "icon": "https://20free.eu/icons/suguru.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.suguru",
       "app_store": null,
       "categories": [
@@ -314,7 +314,7 @@
     {
       "id": "aquarium",
       "name": "Aquarium",
-      "icon": "https://thomaspg.github.io/20free-site/icons/aquarium.png",
+      "icon": "https://20free.eu/icons/aquarium.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.aquarium",
       "app_store": null,
       "categories": [
@@ -324,7 +324,7 @@
     {
       "id": "mosaic",
       "name": "Mosaic",
-      "icon": "https://thomaspg.github.io/20free-site/icons/mosaic.png",
+      "icon": "https://20free.eu/icons/mosaic.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.mosaic",
       "app_store": null,
       "categories": [
@@ -334,7 +334,7 @@
     {
       "id": "colorflood",
       "name": "Color Flood",
-      "icon": "https://thomaspg.github.io/20free-site/icons/colorflood.png",
+      "icon": "https://20free.eu/icons/colorflood.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.colorflood",
       "app_store": null,
       "categories": [
@@ -344,7 +344,7 @@
     {
       "id": "towerstack",
       "name": "Tower Stack",
-      "icon": "https://thomaspg.github.io/20free-site/icons/towerstack.png",
+      "icon": "https://20free.eu/icons/towerstack.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.towerstack",
       "app_store": null,
       "categories": [
@@ -354,7 +354,7 @@
     {
       "id": "zigzag",
       "name": "Zigzag Ball",
-      "icon": "https://thomaspg.github.io/20free-site/icons/zigzag.png",
+      "icon": "https://20free.eu/icons/zigzag.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.zigzag",
       "app_store": null,
       "categories": [
@@ -364,7 +364,7 @@
     {
       "id": "copter",
       "name": "Cave Copter",
-      "icon": "https://thomaspg.github.io/20free-site/icons/copter.png",
+      "icon": "https://20free.eu/icons/copter.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.copter",
       "app_store": null,
       "categories": [
@@ -374,7 +374,7 @@
     {
       "id": "snake",
       "name": "Snake",
-      "icon": "https://thomaspg.github.io/20free-site/icons/snake.png",
+      "icon": "https://20free.eu/icons/snake.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.snake",
       "app_store": null,
       "categories": [
@@ -384,7 +384,7 @@
     {
       "id": "roadhop",
       "name": "Road Hop",
-      "icon": "https://thomaspg.github.io/20free-site/icons/roadhop.png",
+      "icon": "https://20free.eu/icons/roadhop.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.roadhop",
       "app_store": null,
       "categories": [
@@ -394,7 +394,7 @@
     {
       "id": "spinshot",
       "name": "Spin Shot",
-      "icon": "https://thomaspg.github.io/20free-site/icons/spinshot.png",
+      "icon": "https://20free.eu/icons/spinshot.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.spinshot",
       "app_store": null,
       "categories": [
@@ -404,7 +404,7 @@
     {
       "id": "spaceshooter",
       "name": "Space Shooter",
-      "icon": "https://thomaspg.github.io/20free-site/icons/spaceshooter.png",
+      "icon": "https://20free.eu/icons/spaceshooter.png",
       "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.spaceshooter",
       "app_store": null,
       "categories": [
