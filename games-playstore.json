@@ -1,4 +1,15 @@
 {
   "catalog_version": 3,
-  "games": []
+  "games": [
+    {
+      "id": "aquarium",
+      "name": "Aquarium",
+      "icon": "https://20free.eu/icons/aquarium.png",
+      "play_store": "https://play.google.com/store/apps/details?id=com.twentyfree.aquarium",
+      "app_store": null,
+      "categories": [
+        "puzzle"
+      ]
+    }
+  ]
 }
